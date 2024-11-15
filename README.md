@@ -17,3 +17,12 @@ A página de **Pontos de Reciclagem** tem como objetivo fornecer informações �
 
 
 A página de Pontos de Reciclagem serve como um recurso valioso para a comunidade, promovendo a conscientização ambiental e facilitando o acesso a informações práticas para a gestão correta de resíduos. Ao combinar localização, educação e interação com o usuário, essa página pode ajudar a transformar a reciclagem em um hábito acessível e eficiente.
+
+
+![image](https://github.com/user-attachments/assets/03a0ee88-c6dc-4d73-8a52-7c3d8c392674)
+
+
+
+![image](https://github.com/user-attachments/assets/170deb03-ec09-4ea5-aa0c-6e68d046d016)
+
+
