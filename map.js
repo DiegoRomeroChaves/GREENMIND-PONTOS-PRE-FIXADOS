@@ -855,21 +855,20 @@ const recyclingCenters = {
                         }                        
                     };
 
-    // Continue adicionando os demais estados e cidades
+
 
 
 // Inicializa o mapa usando o OpenStreetMap com Leaflet
 function initMap() {
-    map = L.map('map').setView([-14.2350, -51.9253], 4); // Centraliza no Brasil
+    map = L.map('map').setView([-14.2350, -51.9253], 4); 
 
-    // Usa o tile layer do OpenStreetMap
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 18,
         attribution: '© OpenStreetMap'
     }).addTo(map);
 }
 
-// Atualiza a lista de cidades com base no estado selecionado
+
 function updateCities() {
     const state = document.getElementById("state-select").value;
     const citySelect = document.getElementById("city-select");

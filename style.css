@@ -1,4 +1,4 @@
-/* Estilos básicos */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -14,7 +14,7 @@ body {
     background-size: cover;
 }
 
-/* Cabeçalho */
+
 h2 {
     color: white;
     text-align: center;
@@ -22,7 +22,7 @@ h2 {
     padding-bottom: 50px;
 }
 
-/* Container principal */
+
 .container {
     background-color: #2c6e49;
     padding: 60px;
@@ -36,12 +36,12 @@ h2 {
     margin: 50px auto;
     text-align: center;
     box-sizing: border-box;
-    background-image: url(IMAGEM/sinal-de-reciclagem.png);
+    background-image: url(IMAGEM/sinal-de-reciclagem.png);  
     background-size: contain;
     
 }
 
-/* Formulário de reciclagem */
+
 .recycling-form {
     display: flex;
     flex-direction: column;
@@ -49,7 +49,7 @@ h2 {
     margin-top: 10px;
 }
 
-/* Input e seleção */
+
 .input-box {
     padding: 10px;
     border: none;
@@ -61,7 +61,7 @@ h2 {
     background-color: white;
 }
 
-/* Botão */
+
 .button {
     padding: 10px;
     background-color: #4CAF50;
@@ -80,7 +80,7 @@ h2 {
     background-color: #45a049;
 }
 
-/* Estilos do layout principal */
+
 .main-content {
     display: flex;
     justify-content: center;
@@ -91,7 +91,7 @@ h2 {
     margin: 20px auto;
 }
 
-/* Estilos do mapa decorativo */
+
 #map {
     height: 400px;
     flex: 1;
@@ -100,7 +100,7 @@ h2 {
 }
 
 
-/* Seção de Favoritos */
+
 .favorites-section {
     padding: 15px;
     background-color: #f9f9f9;
@@ -126,7 +126,7 @@ h2 {
     border-bottom: 1px solid #ccc;
 }
 
-/* Classe para itens marcados como "Gostei" */
+
 .liked {
     color: #FF6347;
     font-weight: bold;
